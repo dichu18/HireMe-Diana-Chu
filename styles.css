@@ -1,0 +1,67 @@
+.profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: 50%;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVxcve7icudyViB6nAxMM5s1mwUx4JzLH1A&usqp=CAU");
+}
+
+h4 {
+    background-color: #A66E40;
+    font-family: 'Architects Daughter', cursive;
+}
+
+ul {
+    background-color: #FFD2A4;
+}
+
+h1 {
+    color: grey;
+    font-family: 'Fredoka One', cursive;
+    outline: 2px dotted black;
+}
+
+.paragraph1 {
+    font-size: 30px;
+    background-color: #D2C4A4;
+    color: #645636;
+}
+
+.paragraph2 {
+    font-family: 'Patrick Hand', cursive;
+    background-color: #FFD2A4;
+}
+
+.paragraph3 {
+    font-family: 'Karla', sans-serif;
+    background-color: #FFD2A4;
+}
+
+.oddlist {
+    font-family: 'Noto Serif JP', serif;
+}
+
+.evenlist {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.honeykki {
+    text-decoration: none;
+}
+
+.spotify {
+    text-decoration: none;
+}
+
+.hobby {
+    height: 300px;
+    width: 300px;
+}
